@@ -1,5 +1,13 @@
 # eslint-config
 
+## Install
+
+```cmd
+npm i -D eslint
+npm i -D typescript @typescript-eslint/parser @typescript-eslint/eslint-plugin
+npm i -D prettier eslint-config-prettier eslint-plugin-prettier
+```
+
 ## root
 
 ```json
